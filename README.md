@@ -5,7 +5,7 @@ Tech509_Week3
 
 ###### using github practises
 
-![A image](./images/SnowyCastle.jpeg)
+![Castle Snowy](./images/CastleSnow.jpg)
 
 Name | Occupation | Salary
 ------|------------|------

@@ -1,0 +1,82 @@
+
+
+body {
+    color: #919191;
+    padding: 45px;
+    margin 45px;
+    background-color: #3c3c3c;
+}
+
+h1 {
+    Color: chartreuse;
+    padding-left: 0.5em;
+    align-self: flex-end;
+    font-family: "Agency FB", serif;
+}
+
+h2 {
+    color: #959500;
+    margin-left: -5px;
+}
+
+main h2 {
+    background-color: #3c3c3c;
+    margin-top: 0;
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+    background-color: #5c5c5c;
+    padding: 2px 0 2px 2px;
+}
+
+nav, main {
+    background-color: #404040;
+}
+
+footer {
+    color: white;
+    background-color: #494D5F;
+}
+
+nav, main, footer {
+    padding: 0 5px;
+}
+
+header, nav, main {
+    border: 1px solid #06ff00;
+}
+
+section {
+    padding-bottom: 10px;
+}
+
+p {
+    margin: 0 5px;
+    padding: 0 5px;
+}
+
+.flex-container {
+    display: flex;
+    flex-flow: row wrap;
+    gap: 1em;
+}
+
+#skills {
+    font-weight: bold;
+}
+
+h2 {
+    margin-left: 20px;
+}
+
+p {
+    margin-left: 35px;
+    margin-right: 35px;
+    margin-bottom: 10px;
+}
+
+.external {
+    background-color: #959500;
+}

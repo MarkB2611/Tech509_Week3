@@ -6,17 +6,23 @@
     <meta name="Author" content="Mark Blackmore"/>
     <meta name="Description" content="Mark is a test automation engineer training for sparta global."/>
     <meta name="viewport" content="width-device-width, initial-scale=1.0"/>
+    <link rel="stylesheet" href="StyleSheets/MyStyle.css">
     <title>Marks Profile Example</title>
 
 </head>
 <!-- examples of semantic tags -->
 <!-- <main> <header> <footer> <article> <aside> <section> <nav> -->
 <body>
-    <header>
+    <header id="ProfileOwnerName">
         <h1>Mark Blackmore</h1>
     </header>
 
     <nav>
+        <ul>
+            <li><a href="Profile.html">Home</a></li>
+            <li><a href="#">Unimplemented</a></li>
+            <li><a href="#">Unimplemented</a></li>
+        </ul>
     </nav>
 
     <main>
@@ -28,7 +34,7 @@
                 promise from his relevant degree, hardworking attitude and adaptability as well as experience in
                 relevant technologies.</p>
         </section>
-        <section>
+        <section id="skills">
             <h2>Skills</h2>
             <ul>
                 <li>C++ LLM Integration</li>
@@ -56,7 +62,7 @@
         </section>
     </main>
 
-    <footer>
+    <footer class = "external">
         <p>Rights reserved</p>
     </footer>
 </body>
