@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<course active="false">
+    <title>Tech 101</title>
+    <subject>Java</subject>
+    <trainees>
+        <trainee>
+            <firstname>Jerry</firstname>
+            <lastname>Frazier</lastname>
+            <spartano>100</spartano>
+        </trainee>
+        <trainee>
+            <firstname>Cheryl</firstname>
+            <lastname>Cartwright</lastname>
+            <spartano>101</spartano>
+        </trainee>
+    </trainees>
+</course>
